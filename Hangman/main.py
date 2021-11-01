@@ -122,5 +122,4 @@ def main():
             break
 while True:
     main()
-
-pygame.quit()
+    pygame.quit()
